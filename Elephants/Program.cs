@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Elephant[] elephants = new Elephant[7];
         }
     }
 }
